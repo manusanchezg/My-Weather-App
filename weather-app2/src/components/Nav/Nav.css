@@ -1,0 +1,33 @@
+#logoHenry {
+  margin: 0.2em 0.8em;
+}
+.navbar {
+  margin:0.5em;
+  display: flex;
+  justify-content: space-between;
+  background-color: #0e1116d0;
+  align-items: center;
+  border-radius: 5px;
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: #D0DDD7;
+  cursor: pointer;
+  margin-left: 1em;
+}
+.logo:hover{
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: 0.2s;
+}
+.about {
+  color: #D0DDD7;
+  font-size: 1.2rem;
+}
+.about:hover {
+  font-size: 1.4rem;
+  cursor: pointer;
+  transition: 0.2s;
+}

@@ -1,0 +1,29 @@
+.container {
+    padding-right: 0.5em;
+}
+.Ciudad{
+    margin-right: 0.5em;
+    border-radius: 5px;
+    padding: 0.2em 1.5em;
+    text-align: start;
+    font-size: 1em;
+    color: #374A67;
+}
+.Ciudad:hover{
+    padding: 0.4em 2em;
+    transition: 0.2s;
+}
+.button{
+    border: none;
+    padding: 0.3em 0.7em;
+    background-color: #374A67;
+    color: #D0DDD7;
+    font-weight: 600;
+    font-size: 0.9em;
+    border-radius: 5px;
+}
+.button:hover{
+    border: 1px solid #D0DDD7;
+    padding: 0.4em 0.8em;
+    transition: 0.2s;
+}

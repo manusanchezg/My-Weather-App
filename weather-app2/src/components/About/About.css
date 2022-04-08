@@ -1,0 +1,60 @@
+
+.title{
+    font-size: 3em;
+    font-weight: 800;
+    color: #352208;
+}
+.texto{
+    margin: 3em 22em;
+    color: #685634;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+.menu-social{
+    background-color: rgba(245, 245, 245, 0.376);
+    margin: auto 38%;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    border-radius: 1em;
+}
+
+.facebook{
+    background-image: url("../../img/facebook.png");
+    height: 2.5em;
+    width: 2.5em;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: 1em;
+}
+.instagram{
+    background-image: url("../../img/instagram.png");
+    height: 2.5em;
+    width: 2.5em;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto 1em;
+}
+.linkedin{
+    background-image: url("../../img/linkedin.png");
+    height: 2.5em;
+    width: 2.5em;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto 1em;
+}
+.whatsapp{
+    background-image: url("../../img/whatsapp.png");
+    height: 2.5em;
+    width: 2.5em;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 1em;
+    margin-right: 2em;
+}
